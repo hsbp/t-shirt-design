@@ -1,5 +1,5 @@
-T-shirt designs under Creative Commons license
-==============================================
+T-shirt designs under CC license
+================================
 
 By committing in this repository, you acknowledge that all of its content is
 licensed under [CC Attribution ShareAlike 2.5 Hungary][1].
