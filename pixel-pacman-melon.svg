@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2pre0 (973e216, 2017-07-25)"
+   sodipodi:docname="pixel-pacman-melon.svgz">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.47749719"
+     inkscape:cx="762.93757"
+     inkscape:cy="571.56998"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="720"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+       id="rect4574"
+       width="167.74583"
+       height="86.783333"
+       x="14.903553"
+       y="186.83905" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.72064012;stroke-opacity:1"
+       d="m 49.0117,199.56552 v 4.25194 h -8.409821 v 4.34702 h -4.157888 v 4.15737 h -4.251936 v 8.31577 h -4.252453 v 21.18113 h 4.252453 v 8.41034 h 4.251936 v 4.25194 h 4.157888 v 4.15789 H 49.0117 v 4.3465 h 21.090701 v -4.3465 h 8.598959 v -4.15789 h 4.157887 v -4.12326 h -4.304646 v -4.25194 h -4.251939 v -4.25245 H 70.05021 v -4.15737 h -4.063318 v -4.34702 h -4.251938 v -4.25194 h 4.251938 v -4.15788 h 4.063318 v -4.25246 h 4.252452 v -4.25194 h 4.251939 v -4.34702 h 4.304646 v -3.92327 H 78.70136 v -4.34702 h -8.598959 v -4.25194 z"
+       id="rect4534" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+       d="m 142.0639,207.94227 v 4.21421 h -4.33359 v 4.34702 h -4.25193 v 4.25194 h -4.25246 v 4.25245 h -4.06331 v 4.15789 h -4.25194 v 4.25194 h 4.25194 v 4.34702 h 4.06331 v 4.15737 h 4.25246 v 4.25245 h 4.25193 v 4.25194 h 4.33359 v 4.02042 h 4.54339 v -4.00906 h 4.00906 v -8.55244 h 4.27622 v -21.2478 h -4.27622 v -8.41913 h -3.05873 v -0.062 h -0.95033 v -4.21421 z"
+       id="path4556" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+       id="rect4559"
+       width="4.1577382"
+       height="4.2049851"
+       x="82.948723"
+       y="229.19128" />
+    <rect
+       y="229.19128"
+       x="95.644028"
+       height="4.2049851"
+       width="4.1577382"
+       id="rect4561"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1"
+       id="rect4563"
+       width="4.1577382"
+       height="4.2049851"
+       x="108.2057"
+       y="229.19128" />
+    <rect
+       y="229.19128"
+       x="163.39685"
+       height="4.2049851"
+       width="4.1577382"
+       id="rect4565"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.26458332;stroke-opacity:1" />
+  </g>
+</svg>
